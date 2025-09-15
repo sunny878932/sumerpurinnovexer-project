@@ -1,0 +1,25 @@
+2025-08-25 14:37:15,537 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-25 14:37:15,538 - INFO - Added job "schedule_daily_reports" to job store "default"
+2025-08-25 14:37:15,539 - INFO - Scheduler started
+2025-08-25 14:37:15,554 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-25 14:37:15,555 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-25 14:40:49,240 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-25 14:40:49,242 - INFO - Added job "schedule_daily_reports" to job store "default"
+2025-08-25 14:40:49,242 - INFO - Scheduler started
+2025-08-25 14:40:49,256 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-25 14:40:49,256 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-25 16:03:51,383 - DEBUG - Looking up time zone info from registry
+2025-08-25 16:03:51,389 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-25 16:03:51,390 - INFO - Added job "schedule_daily_reports" to job store "default"
+2025-08-25 16:03:51,390 - INFO - Scheduler started
+2025-08-25 16:03:51,391 - DEBUG - Looking for jobs to run
+2025-08-25 16:03:51,391 - INFO - Starting Flask application
+2025-08-25 16:03:51,391 - DEBUG - Next wakeup is due at 2025-08-26 07:00:00+05:30 (in 53768.608321 seconds)
+2025-08-25 16:03:51,420 - INFO - Database connection successful
+2025-08-25 16:03:51,422 - DEBUG - Columns in PLC_Report1: ['DT', 'TOTAL_BLUE_BAG', 'TOTAL_RED_BAG', 'TOTAL_GREEN_BAG', 'VIM_BAR_130G_TOTAL', 'SURF_EXEL_BAR_150G_TOTAL', 'VIM_BAR_90G_TOTAL', 'SURF_EXEL_BAR_105G_TOTAL', 'VIM_BAR_90G_BUNDLING_TOTAL', 'SURF_EXEL_BAR_84G_TOTAL', 'VIM_BAR_300G_TOTAL', 'RIN_185G_TOTAL', 'TOTAL_RIN_250g', 'TOTAL_NO_OF_POWER_BAG', 'TOTAL_NO_OF_UNIT1_CLD', 'TOTAL_NO_OF_UNIT2_CLD', 'TOTAL_UNREAD_VIM_NMB', 'TOTAL_UNREAD_RIN']
+2025-08-25 16:03:51,422 - INFO - File paths validated successfully
+2025-08-25 16:03:51,432 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-25 16:03:51,433 - INFO - [33mPress CTRL+C to quit[0m
